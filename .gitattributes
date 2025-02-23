@@ -1,3 +1,7 @@
 *.ipynb linguist-vendored
 *.csv linguist-vendored
 .ipynb_checkpoints/ linguist-vendored
+
+
+.ipynb_checkpoints/
+*.csv
